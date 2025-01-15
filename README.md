@@ -1,3 +1,5 @@
+# Update: This repository is outdated. Please find the project's new home here: [https://github.com/novemberlc/mcserverguide](https://github.com/novemberlc/mcserverguide).
+
 # Welcome to the NCMS Guides repo!
 
 I absolutely love open-source projects and knowledge, and I want to share information with everyone to make things easier. If that also sounds like you, please contribute!
